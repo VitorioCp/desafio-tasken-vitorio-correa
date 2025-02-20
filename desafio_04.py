@@ -44,7 +44,7 @@ if caminho_arquivo:
                     max_consoantes = qtd_consoantes
                     linha_mais_consoantes = linha
 
-            print("\n📜 Relatório 📜")
+            print("\n Relatório ")
             print(f" Linha com mais vogais ({max_vogais} vogais):\n {linha_mais_vogais}")
             print(f" Linha com mais consoantes ({max_consoantes} consoantes):\n {linha_mais_consoantes}")
 
